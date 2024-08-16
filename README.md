@@ -26,8 +26,3 @@ _Step to setup_
    ```sh
    py -m pip install -r requirements.txt
    ```
-   
-## Author
-* Name: Suphakrit Lertkitcharoenvong
-* Email: sl3355@cornell.edu
-* Tel: 5517995082
